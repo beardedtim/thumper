@@ -1,0 +1,11 @@
+{
+  "name": "thumper",
+  "version": "0.0.0",
+  "description": "A utility belt for dealing with syncronous iterators",
+  "main": "src/index.js",
+  "author": "Tim Roberts <timroberts@fastmail.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
